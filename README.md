@@ -45,3 +45,8 @@ The script creates by itself a Virtual Environment with the required Libraries a
 In this activity, we explore 10 topics in probability and statistics.
 
 **Act7**: [Laboratorio de Repaso de Probabilidad y Estadística](https://github.com/Carlos56g/IO_Jan-June/blob/main/Act/7-Laboratorio%20de%20Repaso%20de%20Probabilidad%20y%20Estadistica/Laboratorio%20de%20Repaso%20de%20Probabilidad%20y%20Estadistica.pdf)
+
+### Act 8: Laboratorio de Álgebra Lineal
+In this activity, we explore 10 problems of Lineal Algebra.
+
+**Act8**: [Laboratorio de Álgebra Lineal](https://github.com/Carlos56g/IO_Jan-June/blob/main/Act/8-Laboratorio%20de%20Algebra%20Lineal/Laboratorio%20de%20%C3%81lgebra%20Lineal.pdf)
